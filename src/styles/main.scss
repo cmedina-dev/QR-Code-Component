@@ -59,10 +59,12 @@ body {
     }
     #qr-header {
       margin-top: 8px;
-      padding: 16px;
       font-weight: 700;
-      font-size: 18px;
       color: $DarkBlue;
+
+      h1 {
+        font-size: 20px;
+      }
     }
     #qr-description {
       padding-left: 16px;
